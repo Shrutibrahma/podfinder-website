@@ -7,6 +7,7 @@ import ParentInstructorSection from "@/components/home/ParentInstructorSection";
 import StatsSection from "@/components/home/StatsSection";
 import HowItWorks from "@/components/home/HowItWorks";
 import TestimonialsSection from "@/components/home/TestimonialsSection";
+import ContactSection from "@/components/home/ContactSection";
 import CTASection from "@/components/home/CTASection";
 
 const Index = () => (
@@ -20,6 +21,7 @@ const Index = () => (
     <StatsSection />
     <HowItWorks />
     <TestimonialsSection />
+    <ContactSection />
     <CTASection />
   </>
 );
