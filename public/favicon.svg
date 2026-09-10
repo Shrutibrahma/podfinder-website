@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Pods &amp; Tutors">
+  <defs>
+    <linearGradient id="bg" x1="10" y1="8" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c9bcff"/>
+      <stop offset="0.46" stop-color="#a9dcff"/>
+      <stop offset="1" stop-color="#bfe7d6"/>
+    </linearGradient>
+    <linearGradient id="dot" x1="20" y1="18" x2="45" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd0b8"/>
+      <stop offset="1" stop-color="#f6c8df"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#bg)"/>
+  <circle cx="24" cy="26" r="9" fill="white" opacity="0.92"/>
+  <circle cx="41" cy="26" r="9" fill="white" opacity="0.92"/>
+  <circle cx="32.5" cy="42" r="10" fill="url(#dot)"/>
+  <path d="M20 42c4.5-6.2 20-6.2 25 0" fill="none" stroke="#252838" stroke-width="4" stroke-linecap="round" opacity="0.82"/>
+</svg>
